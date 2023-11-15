@@ -1,6 +1,6 @@
 /*!
   * vue-router v3.6.5
-  * (c) 2022 Evan You
+  * (c) 2023 Evan You
   * @license MIT
   */
 (function (global, factory) {
@@ -3162,3 +3162,4 @@
   return VueRouter$1;
 
 }));
+//# sourceMappingURL=vue-router.js.map
